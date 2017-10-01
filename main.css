@@ -2,12 +2,12 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway|Varela+Round|Coda);
 
 body {
-  background: #ecf0f1;
+  background: #004c7d;
   padding: 2.23em;
 }
 
 .title {
-  color: #2c3e50;
+  color: #eb8c00;
   font-family: "Coda", sans-serif;
   text-align: center;
 }
@@ -15,7 +15,7 @@ body {
   margin: auto;
 	width: 27em; 
   height: 11em;
-  background: #fff;
+  background: #111111;
   border-radius: .3em;
 }
 
@@ -71,7 +71,7 @@ body {
 }
 
 button {
-  color: white;
+  color: black;
   font-family: "Coda", sans-serif;
   text-align: center;
   font-size: 20px;
